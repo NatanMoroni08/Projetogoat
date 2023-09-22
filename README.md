@@ -1,18 +1,19 @@
-# Nome do projeto
+# Projeto GOAT
 
 Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Nayarisson Natãn Oliveira Moroni
+* Paulo Henrique Almeida Ferreira
+* Antônio José Estevam de Jesus
+* João Guilherme Machado
+* Gabriel Jordan de Souza Santos
+* Alex Angelo Pereira Duarte 
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-
+* Pedro Felipe Alvez de Oliveira
 
 ## Instruções de utilização
 
