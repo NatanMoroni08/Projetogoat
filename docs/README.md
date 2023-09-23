@@ -3,11 +3,18 @@ Vamos falar sobre o o problema de diversas pessoas sobre conseguir praticar espo
 
 ## Informações Gerais
 Projeto: GOAT
+
 Repositório GitHub: Template Trabalho Interdisciplinar
+
 Membros da equipe:https: //github.com/NatanMoroni08/Projetogoat.git
-FulanoEXEMPLO
-Beltrano 
-Cicrano
+
+* [Nayarisson Natãn Oliveira Moroni](https://github.com/NatanMoroni08)
+* [Paulo Henrique Almeida Ferreira](https://github.com/P4aulo)
+* [Antônio José Estevam de Jesus](https://github.com/T0n1nh0)
+* [João Guilherme Machado](https://github.com/joaogm29)
+* [Gabriel Jordan de Souza Santos](https://github.com/Neguim10)
+* [Alex Angelo Pereira Duarte](https://github.com/Alexangelo1998)
+
 # Contexto
 
 # Concepção
