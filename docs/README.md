@@ -1,16 +1,24 @@
-# Documentação do Projeto (TIDocs)
+# Introdução
+Vamos falar sobre o o problema de diversas pessoas sobre conseguir praticar esportes com o intiuto de se divertir, conhecer pessoas e formar amizades, entretanto com todas as dificuldades de realizar essa atividade física e esportiva que pra tantos é algo essencial no país conhecido mundialmente como país do futebol, Brasil.
 
-Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho Interdisciplinar 1** dos cursos de Tecnologia da Informação da **[PUC Minas](https://pucminas.br)**. Essa documentação é estruturada na forma de um site que fica disponível por meio do GitHub Pages e pode ser incluído, também, no site da solução hospedada. Um [exemplo publicado do TIDocs](https://webtech-puc-minas.github.io/ti1-template/) está disponível por meio do repositório do **[WebTech PUC Minas](https://github.com/webtech-pucminas)**.
+## Informações Gerais
+Projeto: GOAT
+Repositório GitHub: Template Trabalho Interdisciplinar
+Membros da equipe:https: //github.com/NatanMoroni08/Projetogoat.git
+FulanoEXEMPLO
+Beltrano 
+Cicrano
+# Contexto
 
-A documentação do projeto inclui as seguintes seções:
+# Concepção
 
-1. Introdução
-2. Contexto
-3. Concepção
-4. Metodologia
-5. Solução
-6. FAQ (Questões frequentes)
-7. Referências Bibliográficas
+# Metodologia
+
+# Solução
+
+# FAQ (Questões frequentes)
+
+# Referências Bibliográficas
 
 O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.
 
