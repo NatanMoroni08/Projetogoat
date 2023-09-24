@@ -69,9 +69,22 @@ comunidade esportiva.
 ...... COLOQUE AQUI O SEU TEXTO ......
 
 ## Público-alvo
-...... COLOQUE AQUI O SEU TEXTO ......
-# Concepção
-
+Nosso projeto direciona-se a um público diversificado e abrangente, 
+que compreende jogadores amadores apaixonados por futebol, grupos 
+de amigos em busca de uma atividade recreativa, turistas que desejam 
+explorar uma nova cidade enquanto participam de partidas locais e 
+donos de quadras esportivas disponíveis em busca de maior 
+visibilidade e ocupação de seus espaços. Com a criação desta 
+plataforma, nosso objetivo é atender às necessidades e interesses 
+desses diferentes grupos, proporcionando-lhes uma maneira 
+conveniente e eficaz de se conectar, competir e desfrutar do esporte 
+que amam, ao mesmo tempo em que oferecemos oportunidades de 
+negócios para proprietários de instalações esportivas locais
+# Concepção (Design Thinking)
+A nossa equipe adotou uma abordagem dinâmica, inclusiva e democrática para conduzir o processo de Design Thinking. Realizamos reuniões semanais, enfatizando a empatia para entender profundamente o problema. Definimos claramente o escopo do projeto, geramos ideias criativas e prototipamos soluções variadas. Com base no feedback dos testes com stakeholders, iteramos nossos protótipos até chegar a uma solução viável. Ao longo do processo, também consideramos nossa capacidade de resolver os problemas, dado que estamos restritos ao desenvolvimento frontend e ainda aprendendo sobre as tecnologias de desenvolvimento web. Demonstramos nossa empatia contínua para com as dores e necessidades dos stakeholders, visto que nosso projeto visa resolver problemas enfrentados por pessoas que desejam praticar esportes como futebol e futsal, mas podem encontrar obstáculos, como a necessidade de formar uma equipe ou a dificuldade de se integrar em um novo ambiente de jogo, especialmente quando se mudaram para uma nova localidade e não conhecem pessoas ou locais para praticar o esporte. Documentamos cuidadosamente cada etapa e promovemos a colaboração e o aprendizado contínuo, criando um ambiente propício à inovação e ao desenvolvimento de soluções centradas no usuário.
+## Processo de Design Thinking
+Detalhes do processo de discovery do projeto.
+Não estou conseguindo colocar o aquivo
 # Metodologia
 
 # Solução
