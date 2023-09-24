@@ -94,7 +94,18 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 ![image](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/6eb29314-7195-4b78-b9e4-f359f1f9102c)
 
 # Metodologia
+Para a organização do grupo utilizamos de encontros semanais para alinhamento de tarefas, discussões e realizar tarefas em conjunto. Para tanto, fizemos o uso de algumas ferramentas como o whatsapp, para montar o grupo e ter conversas pertinentes ao projeto, o Kanban para organizar as tarefas do grupo, o microsoft excel para criar planilhas e tabelas, o site quant-ux para desenvolver o protótipo e também o wireframe do nosso site. Todo o processo foi bastante democrático e interativo entre a equipe, em nossas reuniões buscavamos sempre ter a presença de todos e levar em considerações as ideias de cada integrante, a medida que as tarefas iam sendo feitas seu staus iam mudando no Kanban e íamos conversando pelo whatsapp, o Teams ficava exclusivamente para as reuniões, o processo de prototipação foi feito em conjunto, todos em uma reunião e tirando dúvidas uns com os outros, visto que o site utilizado permitia o uso mútuo da equipe no processo de criação ao mesmo tempo.
+## Ferramentas
 
+Processo de Design Thinking	-	Tamplates disponibilizados no [Canvas](https://pucminas.instructure.com/), tabelas no [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel) e [OneNotes](https://www.microsoft.com/pt-br/microsoft-365/onenote/digital-note-taking-app).
+
+Tarefas - [Kanban](https://www.trello.com/)
+
+Comunicação - [Whatsapp](https://www.whatsapp.com/)
+
+Reuniões - [Microsof Teams](https://www.microsoft.com/pt-br/microsoft-365/teams)
+
+Protótipo interativo e Wireframe - [Quant-UX](https://www.quant-ux.com/)
 # Solução
 
 # FAQ (Questões frequentes)
