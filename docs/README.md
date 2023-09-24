@@ -83,14 +83,16 @@ negócios para proprietários de instalações esportivas locais
 # Concepção (Design Thinking)
 A nossa equipe adotou uma abordagem dinâmica, inclusiva e democrática para conduzir o processo de Design Thinking. Realizamos reuniões semanais, enfatizando a empatia para entender profundamente o problema. Definimos claramente o escopo do projeto, geramos ideias criativas e prototipamos soluções variadas. Com base no feedback dos testes com stakeholders, iteramos nossos protótipos até chegar a uma solução viável. Ao longo do processo, também consideramos nossa capacidade de resolver os problemas, dado que estamos restritos ao desenvolvimento frontend e ainda aprendendo sobre as tecnologias de desenvolvimento web. Demonstramos nossa empatia contínua para com as dores e necessidades dos stakeholders, visto que nosso projeto visa resolver problemas enfrentados por pessoas que desejam praticar esportes como futebol e futsal, mas podem encontrar obstáculos, como a necessidade de formar uma equipe ou a dificuldade de se integrar em um novo ambiente de jogo, especialmente quando se mudaram para uma nova localidade e não conhecem pessoas ou locais para praticar o esporte. Documentamos cuidadosamente cada etapa e promovemos a colaboração e o aprendizado contínuo, criando um ambiente propício à inovação e ao desenvolvimento de soluções centradas no usuário.
 ## Processo de Design Thinking
-Detalhes do processo de discovery do projeto.
-Não estou conseguindo colocar o aquivo
+[Clique aqui](https://github.com/NatanMoroni08/Projetogoat/files/12709724/DT_completo.pdf) para ver o documento do Design Thinking.
 
 ## Especificações do Projeto
 ### Histórias de Usuários
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![logo goat](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/92ca05fc-5eca-42fa-a340-2d546691c66a)
-)
+![Imagem do tabelamento da história de usuários](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/a32c5002-75e8-4aef-ab60-c92dd4a874d5)
+### Requisitos
+![Requisitos funcionais](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/5766f3a3-43da-45df-bdec-137c4af67ed4)
+![image](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/6eb29314-7195-4b78-b9e4-f359f1f9102c)
+
 # Metodologia
 
 # Solução
