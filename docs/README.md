@@ -1,12 +1,12 @@
 # Introdução
-Vamos falar sobre o o problema de diversas pessoas sobre conseguir praticar esportes com o intiuto de se divertir, conhecer pessoas e formar amizades, entretanto com todas as dificuldades de realizar essa atividade física e esportiva que pra tantos é algo essencial no país conhecido mundialmente como país do futebol, Brasil.
+Identificada a dificuldade de diversas pessoas em conseguir praticar esportes como o futebol e também o futsal com intiutos como o de se divertir, de conhecer pessoas, de utilizar seu tempo livre de maneira saudável e até mesmo formar amizades que podem ser levadas para a vida toda, tudo isso por meio do esporte, idealizou-se o projeto GOAT, um projeto que será desenvolvido na web e promete resolver o problema dessas pessoas que buscam pelo o esporte e o veem como algo essencial para sua qualidade de vida e até mesmo desenvolvimento pessoal.
 
 ## Informações Gerais
-Projeto: GOAT
+**Projeto**: GOAT
 
-Repositório GitHub: Template Trabalho Interdisciplinar
+**Repositório GitHub**: [Template Trabalho Interdisciplinar](//github.com/NatanMoroni08/Projetogoat.git)
 
-Membros da equipe:https: //github.com/NatanMoroni08/Projetogoat.git
+**Membros da equipe:https**:
 
 * [Nayarisson Natãn Oliveira Moroni](https://github.com/NatanMoroni08)
 * [Paulo Henrique Almeida Ferreira](https://github.com/P4aulo)
@@ -85,6 +85,12 @@ A nossa equipe adotou uma abordagem dinâmica, inclusiva e democrática para con
 ## Processo de Design Thinking
 Detalhes do processo de discovery do projeto.
 Não estou conseguindo colocar o aquivo
+
+## Especificações do Projeto
+### Histórias de Usuários
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![logo goat](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/92ca05fc-5eca-42fa-a340-2d546691c66a)
+)
 # Metodologia
 
 # Solução
