@@ -16,7 +16,60 @@ Membros da equipe:https: //github.com/NatanMoroni08/Projetogoat.git
 * [Alex Angelo Pereira Duarte](https://github.com/Alexangelo1998)
 
 # Contexto
+## Problema
+A realização desse projeto se fundamenta em uma série de 
+                justificativas essenciais, todas relacionadas à lacuna existente no 
+                cenário das partidas de futebol casual. Primeiramente, a escassez de 
+                jogadores disponíveis e a dificuldade em reunir um grupo para uma 
+                partida são obstáculos frequentes enfrentados por entusiastas do 
+                esporte. Além disso, a falta de organização e informações claras sobre 
+                locais e horários de jogos contribui para partidas muitas vezes caóticas 
+                e pouco satisfatórias. Para aqueles que são turistas em uma cidade 
+                desconhecida, a dificuldade de estabelecer conexões locais torna ainda 
+                mais desafiador encontrar uma partida amigável. Portanto, este projeto 
+                busca preencher uma lacuna crucial ao oferecer uma plataforma que 
+                resolve essas questões, tornando a experiência de participar de 
+                partidas de futebol casual mais acessível, organizada e inclusiva para 
+                todos.
+## Objetivos
+### Objetivo Geral:
+O objetivo geral deste projeto é facilitar e promover a realização de 
+partidas de futebol casual, conectando entusiastas esportivos e 
+fornecendo informações atualizadas sobre locais disponíveis para 
+jogos. O projeto visa criar uma plataforma abrangente que torne mais 
+fácil para as pessoas encontrarem jogos de futebol informais em sua 
+área e se juntarem a eles
+### Objetivos Específicos:
+* Desenvolver uma plataforma digital acessível por meio de um 
+aplicativo ou site que permita aos usuários localizar partidas de 
+futebol casual em sua proximidade.
+* Criar um sistema de registro de eventos, onde os organizadores 
+de jogos possam divulgar informações sobre horários, locais e 
+níveis de habilidade necessários para participar.
+* Estabelecer um sistema de classificação ou avaliação para jogos 
+e organizadores, de forma a garantir que a qualidade e a 
+segurança das partidas sejam mantidas.
+* Facilitar a interação e comunicação entre os membros da 
+comunidade esportiva, permitindo que os jogadores se conectem 
+e organizem partidas com mais facilidade.
+* Fornecer informações sobre regras, dicas e recursos úteis para os 
+jogadores melhorarem seu desempenho no futebol casual.
+* Promover a inclusão e a diversidade no esporte, incentivando a 
+participação de pessoas de diferentes idades, gêneros e níveis de 
+habilidade.
+* Colaborar com campos esportivos locais e outros stakeholders 
+para garantir a atualização constante das informações sobre 
+locais disponíveis e promover a utilização de instalações 
+esportivas.
+* Avaliar continuamente a eficácia da plataforma por meio de 
+feedback dos usuários e métricas de engajamento, buscando 
+aprimorá-la constantemente para atender às necessidades da 
+comunidade esportiva.
+## Justificativa
+...... COLOQUE AQUI O SEU TEXTO ......
 
+## Público-alvo
+...... COLOQUE AQUI O SEU TEXTO ......
 # Concepção
 
 # Metodologia
