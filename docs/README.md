@@ -84,7 +84,15 @@ negócios para proprietários de instalações esportivas locais
 A nossa equipe adotou uma abordagem dinâmica, inclusiva e democrática para conduzir o processo de Design Thinking. Realizamos reuniões semanais, enfatizando a empatia para entender profundamente o problema. Definimos claramente o escopo do projeto, geramos ideias criativas e prototipamos soluções variadas. Com base no feedback dos testes com stakeholders, iteramos nossos protótipos até chegar a uma solução viável. Ao longo do processo, também consideramos nossa capacidade de resolver os problemas, dado que estamos restritos ao desenvolvimento frontend e ainda aprendendo sobre as tecnologias de desenvolvimento web. Demonstramos nossa empatia contínua para com as dores e necessidades dos stakeholders, visto que nosso projeto visa resolver problemas enfrentados por pessoas que desejam praticar esportes como futebol e futsal, mas podem encontrar obstáculos, como a necessidade de formar uma equipe ou a dificuldade de se integrar em um novo ambiente de jogo, especialmente quando se mudaram para uma nova localidade e não conhecem pessoas ou locais para praticar o esporte. Documentamos cuidadosamente cada etapa e promovemos a colaboração e o aprendizado contínuo, criando um ambiente propício à inovação e ao desenvolvimento de soluções centradas no usuário.
 ## Processo de Design Thinking
 [Clique aqui](https://github.com/NatanMoroni08/Projetogoat/files/12709724/DT_completo.pdf) para ver o documento do Design Thinking.
-
+## Projeto de Interface
+Artefatos relacionados com a interface e a interacão do usuário na proposta de solução.
+### User/Screen Flow e Protótipo interativo
+Artefatos relacionados com a interface e a interacão do usuário na solução proposta.
+![User flow](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/528243f3-864a-465d-8a9c-2847730592f0)
+[Protótipo Interativo](https://app.quant-ux.com/#/test.html?h=a2aa10aMe1earesOgRpLhrjkAYOUOzFZLe80raxVL2TYdiJ5NNTRy8jayT4e&ln=en)
+### Wireframes
+Protótipo de telas do sistema em baixa fidelidade (rascunhos).
+[Wireframe](https://app.quant-ux.com/#/test.html?h=a2aa10avJwStmgW2bfG0715AornZukb3XwoOvGel8oQKIfqpdKuiivbgYhfK&ln=en)
 ## Especificações do Projeto
 ### Histórias de Usuários
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
