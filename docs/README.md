@@ -89,6 +89,7 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 ### User/Screen Flow e Protótipo interativo
 Artefatos relacionados com a interface e a interacão do usuário na solução proposta.
 ![User flow](https://github.com/NatanMoroni08/Projetogoat/assets/145724082/528243f3-864a-465d-8a9c-2847730592f0)
+
 [Protótipo Interativo](https://app.quant-ux.com/#/test.html?h=a2aa10aMe1earesOgRpLhrjkAYOUOzFZLe80raxVL2TYdiJ5NNTRy8jayT4e&ln=en)
 ### Wireframes
 Protótipo de telas do sistema em baixa fidelidade (rascunhos).
