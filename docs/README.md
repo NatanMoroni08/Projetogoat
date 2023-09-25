@@ -106,7 +106,203 @@ Comunicação - [Whatsapp](https://www.whatsapp.com/)
 Reuniões - [Microsof Teams](https://www.microsoft.com/pt-br/microsoft-365/teams)
 
 Protótipo interativo e Wireframe - [Quant-UX](https://www.quant-ux.com/)
+
+## Gestão do Projeto
+### Gestão do Projeto
+
+Nossa equipe de projeto é composta pelos seguintes membros:
+
+- **Alex PO (Product Owner)**: Responsável por definir os requisitos e prioridades do produto, garantindo que as necessidades dos usuários sejam atendidas.
+
+- **Nayarisson Natãn Oliveira Moroni (SCRUM Master)**: Encarregado de facilitar o processo de desenvolvimento, remover obstáculos e garantir que a equipe siga as práticas do Scrum para uma entrega eficiente.
+
+- **Equipe de Desenvolvimento**:
+  - Paulo Henrique Almeida Ferreira
+  - Antônio José Estevam de Jesus
+  - João Guilherme Machado
+  - Gabriel Jordan de Souza Santos
+
+Nossa ferramenta de controle de tarefas é baseada no método Kanban. Utilizamos um quadro Kanban virtual para organizar e rastrear o progresso das tarefas do projeto. O quadro Kanban é dividido em colunas que representam os estados das tarefas, como "A fazer", "Em progresso" e "Concluído". As tarefas são movidas de uma coluna para outra à medida que avançam no processo de desenvolvimento.
+
+Este método nos permite visualizar facilmente o fluxo de trabalho, identificar gargalos e manter um controle eficaz das tarefas pendentes e concluídas. Também facilita a comunicação e a colaboração dentro da equipe.
+
+![Quadro Kanban](link-para-a-imagem-do-quadro-kanban.png)
+
+Nossa equipe está comprometida em seguir as práticas de gerenciamento ágil e usar ferramentas como o Kanban para garantir o sucesso do projeto.
+
+## Controle de Versão
+### Estrutura de Diretórios
+
+Vamos começar definindo uma estrutura de diretórios bem organizada para o nosso projeto:
+
+- **index.html**: Esta será nossa página inicial, onde os visitantes iniciarão a navegação.
+
+- **assets**: Vamos criar uma pasta chamada "assets" para armazenar todos os recursos do nosso site, como arquivos CSS, JavaScript, imagens e fontes.
+
+  - **css**: Dentro da pasta "assets", teremos outra pasta chamada "css" onde colocaremos todos os arquivos CSS para estilizar nosso site.
+
+  - **js**: Também dentro de "assets", teremos uma pasta chamada "js" para manter todos os arquivos JavaScript que tornam nosso site interativo e dinâmico.
+
+  - **images**: Esta pasta será usada para todas as imagens usadas no site, incluindo nossa logo.
+
+  - **fonts**: Caso utilizemos fontes personalizadas, como a font1.ttf, elas serão armazenadas aqui.
+
+- **pages**: Criaremos uma pasta chamada "pages" para conter todas as páginas individuais do nosso site, como about.html e contact.html. Cada página terá seu próprio arquivo HTML.
+
+- **README.md**: Este arquivo será usado para documentar nosso projeto, fornecendo informações sobre como configurá-lo, usá-lo e qualquer outra informação relevante.
+
+### Fluxo de Trabalho
+
+Aqui está um esboço de como vamos organizar nosso fluxo de trabalho:
+
+1. **Criação do Repositório**: Vamos criar um repositório no GitHub com a estrutura de diretórios que definimos. Isso pode ser feito seguindo as etapas do Passo 1 no exemplo anterior.
+
+2. **Clonagem do Repositório**: Cada membro da equipe clonará o repositório do GitHub para seus próprios ambientes de desenvolvimento locais, usando o comando `git clone`.
+
+3. **Desenvolvimento**: Cada membro da equipe trabalhará em sua parte do projeto. Isso pode incluir a criação de arquivos HTML, CSS e JavaScript, além de adicionar imagens e fontes conforme necessário.
+
+4. **Git Add, Commit e Push**: Após fazerem as alterações em seus arquivos, os membros da equipe usarão os comandos `git add`, `git commit` e `git push` para enviar suas mudanças de volta para o repositório no GitHub, mantendo um histórico claro de todas as alterações.
+
+5. **Branches (Ramos)**: Se necessário, criaremos ramos separados para trabalhar em funcionalidades específicas ou correções de bugs sem interferir no trabalho dos outros. Isso ajudará a manter o código organizado.
+
+6. **Pull Requests**: Quando concluirmos uma tarefa em um branch específico, criaremos um Pull Request para solicitar a revisão de nossas mudanças. Isso permitirá que outros membros da equipe revisem o código, façam comentários e sugiram melhorias.
+
+7. **Revisões e Discussões**: Manteremos um processo de revisão de código, onde examinaremos as sugestões de nossos colegas, faremos ajustes conforme necessário e discutiremos as mudanças.
+
+8. **Mesclagem (Merge)**: Após a aprovação e revisão de um Pull Request, ele poderá ser mesclado no branch principal (geralmente chamado de `main` ou `master`), incorporando as mudanças no site principal.
+
+9. **Atualização Regular**: Para manter nosso código atualizado com as mudanças feitas por outros membros da equipe, usaremos `git pull` regularmente.
+
+10. **Documentação**: O arquivo README.md será onde documentaremos informações importantes sobre o projeto, como instruções de instalação, uso e qualquer outra informação relevante.
+
+Com esse planejamento e estrutura de trabalho, nossa equipe poderá desenvolver e manter nosso projeto de forma eficiente e colaborativa nas sprints. É importante mantermos uma comunicação aberta e estar dispostos a colaborar uns com os outros para conseguir desenvolver o projeto.
+
 # Solução
+### Funcionalidades
+
+**1. Cadastro de Usuários (Alta)**
+
+Esta funcionalidade permite que os usuários se cadastrem no site.
+
+**Instruções:**
+1. Acesse o site.
+2. Clique na opção "Cadastre-se".
+3. Preencha as informações necessárias, como nome, e-mail e senha.
+4. Clique em "Cadastrar" para criar sua conta.
+
+---
+
+**2. Pesquisa de Partidas (Alta)**
+
+Os usuários podem pesquisar partidas próximas a eles.
+
+**Instruções:**
+1. Faça login no site.
+2. Vá para a seção "Pesquisar Partidas".
+3. Insira sua localização ou use a localização atual.
+4. Visualize as partidas disponíveis próximas a você.
+
+---
+
+**3. Reserva de Quadras (Alta)**
+
+Os usuários podem reservar quadras para criar partidas futuras.
+
+**Instruções:**
+1. Faça login no site.
+2. Vá para a seção "Reservar Quadras".
+3. Escolha a quadra desejada.
+4. Selecione a data e hora para a reserva.
+5. Confirme a reserva.
+
+---
+
+**4. Integração com o Google Maps (Baixa)**
+
+O site oferece uma integração com o Google Maps para visualização detalhada da localização.
+
+---
+
+**5. Filtragem de Partidas (Média)**
+
+Os usuários podem filtrar partidas com base em sexo, idade e data.
+
+**Instruções:**
+1. Faça login no site.
+2. Vá para a seção "Filtrar Partidas".
+3. Escolha as opções de filtro desejadas, como sexo, idade e data.
+4. Veja as partidas que atendem aos critérios selecionados.
+
+---
+
+**6. Chat (Baixa)**
+
+O site possui uma funcionalidade de chat para comunicação entre os usuários antes e depois das partidas.
+
+---
+
+**7. Sistema de Avaliação (Baixa)**
+
+Os jogadores podem dar feedback sobre suas equipes e adversários por meio de um sistema de avaliação.
+
+-- Ainda uma dúvida se será implementado --
+
+**8. Cadastro de Quadras (Média)**
+
+Donos de quadras podem cadastrar suas quadras no site.
+
+**Instruções:**
+1. Faça login no site.
+2. Vá para a seção "Cadastro de Quadras".
+3. Insira informações sobre a quadra, como nome, endereço e disponibilidade.
+
+---
+
+**9. Criação de Perfis de Jogadores (Baixa)**
+
+Os jogadores podem criar perfis com informações pessoais no site.
+
+**Instruções:**
+1. Faça login no site.
+2. Vá para a seção "Perfil de Jogador".
+3. Preencha informações sobre si mesmo, como nome, idade e preferências de jogo.
+
+### Estrutura de Dados
+
+## Estrutura de Dados: Usuário
+**Descrição:** Representa um usuário do sistema, que pode ser um jogador ou um dono de quadra esportiva.
+
+**Exemplo em JSON:**
+```json
+{
+  "id": 1,
+  "nome": "João Silva",
+  "email": "joao@example.com",
+  "senha": "senha123",
+  "idade": 30,
+  "sexo": "Masculino",
+  "tipo": "Jogador"
+}
+
+## Estrutura de Dados: Quadra Esportiva
+Descrição: Representa uma quadra esportiva onde as partidas podem ser realizadas.
+
+Exemplo em JSON:
+
+{
+  "id": 1,
+  "nome": "Quadra Esportiva A",
+  "endereco": "Rua das Quadras, 123",
+  "disponibilidade": {
+    "segunda": "8:00 - 22:00",
+    "terca": "8:00 - 22:00",
+    "quarta": "8:00 - 22:00",
+    "quinta": "8:00 - 22:00",
+    "sexta": "8:00 - 22:00",
+    "sabado": "10:00 - 18:00",
+    "domingo": "10:00 - 18:00"
+  }
+}
 
 # FAQ (Questões frequentes)
 
