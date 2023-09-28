@@ -6,7 +6,7 @@ Identificada a dificuldade de diversas pessoas em conseguir praticar esportes co
 
 **Repositório GitHub**: [Template Trabalho Interdisciplinar](//github.com/NatanMoroni08/Projetogoat.git)
 
-**Membros da equipe:https**:
+**Membros da equipe:**
 
 * [Nayarisson Natãn Oliveira Moroni](https://github.com/NatanMoroni08)
 * [Paulo Henrique Almeida Ferreira](https://github.com/P4aulo)
