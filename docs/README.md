@@ -117,7 +117,6 @@ Reuniões - [Microsof Teams](https://www.microsoft.com/pt-br/microsoft-365/teams
 Protótipo interativo e Wireframe - [Quant-UX](https://www.quant-ux.com/)
 
 ## Gestão do Projeto
-### Gestão do Projeto
 
 Nossa equipe de projeto é composta pelos seguintes membros:
 
@@ -162,9 +161,9 @@ Vamos começar definindo uma estrutura de diretórios bem organizada para o noss
 
 Aqui está um esboço de como vamos organizar nosso fluxo de trabalho:
 
-1. **Criação do Repositório**: Vamos criar um repositório no GitHub com a estrutura de diretórios que definimos. Isso pode ser feito seguindo as etapas do Passo 1 no exemplo anterior.
+1. **Criação do Repositório**: Vamos criar um repositório no GitHub com a estrutura de diretórios que definimos.
 
-2. **Clonagem do Repositório**: Cada membro da equipe clonará o repositório do GitHub para seus próprios ambientes de desenvolvimento locais, usando o comando `git clone`.
+2. **Clonagem do Repositório**: Cada membro da equipe clonará o repositório do GitHub para seus próprios ambientes de desenvolvimento locais.
 
 3. **Desenvolvimento**: Cada membro da equipe trabalhará em sua parte do projeto. Isso pode incluir a criação de arquivos HTML, CSS e JavaScript, além de adicionar imagens e fontes conforme necessário.
 
