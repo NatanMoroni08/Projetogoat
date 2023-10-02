@@ -1,5 +1,5 @@
 # Introdução
-Identificada a dificuldade de diversas pessoas em conseguir praticar esportes como o futebol e também o futsal com intiutos como o de se divertir, de conhecer pessoas, de utilizar seu tempo livre de maneira saudável e até mesmo formar amizades que podem ser levadas para a vida toda, tudo isso por meio do esporte, idealizou-se o projeto GOAT, um projeto que será desenvolvido na web e promete resolver o problema dessas pessoas que buscam pelo o esporte e o veem como algo essencial para sua qualidade de vida e até mesmo desenvolvimento pessoal.
+Identificada a dificuldade de diversas pessoas em conseguir praticar esportes como o futebol e também o futsal com intiutos como o de se divertir, de conhecer pessoas, de utilizar seu tempo livre de maneira saudável e até mesmo formar amizades que podem ser levadas para a vida toda, tudo isso por meio do esporte, idealizou-se o projeto **GOAT**, nome esse devido ao termo muito difundido no funtebol que é a abreviação de "**G**reatest **O**f **A**ll **T**ime", um projeto que será desenvolvido na web e promete resolver o problema dessas pessoas que buscam pelo o esporte e o veem como algo essencial para sua qualidade de vida e até mesmo desenvolvimento pessoal.
 
 ## Informações Gerais
 **Projeto**: GOAT
