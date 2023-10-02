@@ -110,7 +110,7 @@ Processo de Design Thinking	-	Tamplates disponibilizados no [Canvas](https://puc
 
 Tarefas - [Kanban](https://www.trello.com/)
 
-Comunicação - [Whatsapp](https://www.whatsapp.com/)
+Comunicação - [Whatsapp](https://www.whatsapp.com/) e [Slack](https://slack.com/intl/pt-br).
 
 Reuniões - [Microsof Teams](https://www.microsoft.com/pt-br/microsoft-365/teams)
 
