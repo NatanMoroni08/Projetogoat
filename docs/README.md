@@ -66,7 +66,7 @@ feedback dos usuários e métricas de engajamento, buscando
 aprimorá-la constantemente para atender às necessidades da 
 comunidade esportiva.
 ## Justificativa
-...... COLOQUE AQUI O SEU TEXTO ......
+Uma pessoa pode precisar de um site para marcar um futebol casual como forma de distração e lazer em determinados momentos, e essa plataforma oferece facilidades essenciais para as dificuldades dessas pessoas de alcaçar esse objetivo tão comum, o cadastro de partidas com lotação máxima de jogadores, ingressar em partidas existentes e efetuar a pratica esportiva, filtro de localização, o qual facilita a procura por partidas próximas a localidade desejada pelo usuário e uma eficiente comunicação dentro do site para resolver possíveis dúvidas e conversar com o integrantes da partida na qual o usuário está cadastrado. Isso torna a organização de partidas mais simples e assertiva, tonando a experiência desportiva supracitada mais acessível e gratificante. 
 
 ## Público-alvo
 Nosso projeto direciona-se a um público diversificado e abrangente, 
