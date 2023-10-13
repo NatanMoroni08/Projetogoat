@@ -35,20 +35,15 @@ A realização desse projeto se fundamenta em uma série de
 ### Objetivo Geral:
 O objetivo geral deste projeto é facilitar e promover a realização de 
 partidas de futebol casual, conectando entusiastas esportivos e 
-fornecendo informações atualizadas sobre locais disponíveis para 
-jogos. O projeto visa criar uma plataforma abrangente que torne mais 
+fornecendo informações atualizadas sobre partidas disponíveis para participar. O projeto visa criar uma plataforma abrangente que torne mais 
 fácil para as pessoas encontrarem jogos de futebol informais em sua 
-área e se juntarem a eles
+área e se juntarem a eles.
 ### Objetivos Específicos:
-* Desenvolver uma plataforma digital acessível por meio de um 
-aplicativo ou site que permita aos usuários localizar partidas de 
+* Desenvolver uma plataforma digital acessível por meio de um ou site que permita aos usuários localizar partidas de 
 futebol casual em sua proximidade.
 * Criar um sistema de registro de eventos, onde os organizadores 
 de jogos possam divulgar informações sobre horários, locais e 
 níveis de habilidade necessários para participar.
-* Estabelecer um sistema de classificação ou avaliação para jogos 
-e organizadores, de forma a garantir que a qualidade e a 
-segurança das partidas sejam mantidas.
 * Facilitar a interação e comunicação entre os membros da 
 comunidade esportiva, permitindo que os jogadores se conectem 
 e organizem partidas com mais facilidade.
