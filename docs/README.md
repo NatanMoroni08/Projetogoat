@@ -35,36 +35,22 @@ A realização desse projeto se fundamenta em uma série de
 ### Objetivo Geral:
 O objetivo geral deste projeto é facilitar e promover a realização de 
 partidas de futebol casual, conectando entusiastas esportivos e 
-fornecendo informações atualizadas sobre locais disponíveis para 
-jogos. O projeto visa criar uma plataforma abrangente que torne mais 
+fornecendo informações atualizadas sobre partidas disponíveis para participar. O projeto visa criar uma plataforma abrangente que torne mais 
 fácil para as pessoas encontrarem jogos de futebol informais em sua 
-área e se juntarem a eles
+área e se juntarem a eles.
 ### Objetivos Específicos:
-* Desenvolver uma plataforma digital acessível por meio de um 
-aplicativo ou site que permita aos usuários localizar partidas de 
-futebol casual em sua proximidade.
-* Criar um sistema de registro de eventos, onde os organizadores 
-de jogos possam divulgar informações sobre horários, locais e 
-níveis de habilidade necessários para participar.
-* Estabelecer um sistema de classificação ou avaliação para jogos 
-e organizadores, de forma a garantir que a qualidade e a 
-segurança das partidas sejam mantidas.
+* Desenvolver uma plataforma digital acessível por meio de um site, o que permita os usuários localizarem partidas de 
+futebol casual em determinadas localidades.
+* Criar um sistema de registro de eventos, onde os organizadores
+dos eventos possam divulgar informações sobre horário, local e equipamentos necessários para participar.
 * Facilitar a interação e comunicação entre os membros da 
 comunidade esportiva, permitindo que os jogadores se conectem 
 e organizem partidas com mais facilidade.
-* Fornecer informações sobre regras, dicas e recursos úteis para os 
-jogadores melhorarem seu desempenho no futebol casual.
-* Promover a inclusão e a diversidade no esporte, incentivando a 
-participação de pessoas de diferentes idades, gêneros e níveis de 
-habilidade.
-* Colaborar com campos esportivos locais e outros stakeholders 
-para garantir a atualização constante das informações sobre 
-locais disponíveis e promover a utilização de instalações 
-esportivas.
-* Avaliar continuamente a eficácia da plataforma por meio de 
-feedback dos usuários e métricas de engajamento, buscando 
-aprimorá-la constantemente para atender às necessidades da 
-comunidade esportiva.
+* Promover a inclusão e a diversidade no esporte, facilitando a 
+participação de pessoas de diferentes idades, gêneros e níveis esportivos.
+* Colaborar, como consequência, com donos de campos esportivos locais e outros stakeholders 
+para devido a implicação da pataforma na utilização de instalações 
+esportivas e influencia no campo esportivo amador.
 ## Justificativa
 Uma pessoa pode precisar de um site para marcar um futebol casual como forma de distração e lazer em determinados momentos, e essa plataforma oferece facilidades essenciais para as dificuldades dessas pessoas de alcaçar esse objetivo tão comum, o cadastro de partidas com lotação máxima de jogadores, ingressar em partidas existentes e efetuar a pratica esportiva, filtro de localização, o qual facilita a procura por partidas próximas a localidade desejada pelo usuário e uma eficiente comunicação dentro do site para resolver possíveis dúvidas e conversar com o integrantes da partida na qual o usuário está cadastrado. Isso torna a organização de partidas mais simples e assertiva, tonando a experiência desportiva supracitada mais acessível e gratificante. 
 
