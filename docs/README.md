@@ -39,27 +39,18 @@ fornecendo informações atualizadas sobre partidas disponíveis para participar
 fácil para as pessoas encontrarem jogos de futebol informais em sua 
 área e se juntarem a eles.
 ### Objetivos Específicos:
-* Desenvolver uma plataforma digital acessível por meio de um ou site que permita aos usuários localizar partidas de 
-futebol casual em sua proximidade.
-* Criar um sistema de registro de eventos, onde os organizadores 
-de jogos possam divulgar informações sobre horários, locais e 
-níveis de habilidade necessários para participar.
+* Desenvolver uma plataforma digital acessível por meio de um site, o que permita os usuários localizarem partidas de 
+futebol casual em determinadas localidades.
+* Criar um sistema de registro de eventos, onde os organizadores
+dos eventos possam divulgar informações sobre horário, local e equipamentos necessários para participar.
 * Facilitar a interação e comunicação entre os membros da 
 comunidade esportiva, permitindo que os jogadores se conectem 
 e organizem partidas com mais facilidade.
-* Fornecer informações sobre regras, dicas e recursos úteis para os 
-jogadores melhorarem seu desempenho no futebol casual.
-* Promover a inclusão e a diversidade no esporte, incentivando a 
-participação de pessoas de diferentes idades, gêneros e níveis de 
-habilidade.
-* Colaborar com campos esportivos locais e outros stakeholders 
-para garantir a atualização constante das informações sobre 
-locais disponíveis e promover a utilização de instalações 
-esportivas.
-* Avaliar continuamente a eficácia da plataforma por meio de 
-feedback dos usuários e métricas de engajamento, buscando 
-aprimorá-la constantemente para atender às necessidades da 
-comunidade esportiva.
+* Promover a inclusão e a diversidade no esporte, facilitando a 
+participação de pessoas de diferentes idades, gêneros e níveis esportivos.
+* Colaborar, como consequência, com donos de campos esportivos locais e outros stakeholders 
+para devido a implicação da pataforma na utilização de instalações 
+esportivas e influencia no campo esportivo amador.
 ## Justificativa
 ...... COLOQUE AQUI O SEU TEXTO ......
 
