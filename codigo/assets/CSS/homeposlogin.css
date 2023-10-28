@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.text-center p
+{
+    color: white;
+}
+footer {
+    background-color: rgb(1, 87, 40);
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
