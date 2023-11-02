@@ -5,12 +5,19 @@ body {
     display: flex;
     flex-direction: column;
 }
+.navbar{
+    background-color: #14805E;
+}
+.entrar a{
+    color: #fff;
+    text-decoration: none;
+}
 .text-center p
 {
     color: white;
 }
 footer {
-    background-color: rgb(1, 87, 40);
+    background-color: #14805E;
     color: #fff;
     position: fixed;
     bottom: 0;
