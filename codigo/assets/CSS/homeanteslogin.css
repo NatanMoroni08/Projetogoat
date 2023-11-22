@@ -1,3 +1,4 @@
+/* Configurações gerais */
 body {
     margin: 0;
     padding: 0;
@@ -5,6 +6,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+/* Navbar */
+
 .navbar{
     background-color: #14805E;
 }
@@ -16,6 +20,11 @@ body {
 {
     color: white;
 }
+
+/* Conteúdo */
+
+
+/* Footer */
 footer {
     background-color: #14805E;
     color: #fff;

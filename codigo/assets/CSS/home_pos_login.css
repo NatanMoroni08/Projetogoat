@@ -1,0 +1,121 @@
+/* Configurações gerais */
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-image: url('Imagens/GOAT.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Navbar */
+.container-fluid
+{
+    width: 100%;
+}
+
+.navbar{
+    background-color: #14805E;
+}
+.icone-profile{
+    color: #fff;
+    text-decoration: none;
+}
+.inicio-profile{
+    padding-right: 1%;
+}
+.text-center p
+{
+    color: white;
+}
+
+
+/* Conteúdo */
+.card
+{
+    margin: 5% 10%;
+}
+.card-body .botao-mais
+{
+    margin: 0 auto 2px auto;
+}
+
+/* Footer */
+footer {
+    background-color: #14805E;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2%;
+}
+
+
+/* Adicione estilos personalizados para o seu modal */
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;    
+  }
+  .close-popup-btn{
+    color: red;
+    margin:0px 0px 15px 1px;
+    left: 97%; 
+    z-index: 2;
+    position: absolute;
+  }
+  .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    width: 50%;
+    height: 50%;
+    border-radius: 2cap;
+    border-color: #15ce94;
+    box-shadow: 3px 5px 10px  #289975;
+  }
+  .pop-titulo h1
+  {
+    background-color: rgb(237, 236, 236);
+    border: black;
+    border:solid 1px;
+    border-radius: 20px 20px 20px 20px;
+    font-size:xx-large;
+    border-color: #15ce94;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.pop-paragrafos{
+    margin-left: 3%;
+}
+  .pop-paragrafos p
+  {
+    margin: 1%;
+    text-align: left;
+    border: black;
+    border:solid 1px;
+    border-radius: 20px 20px 20px 20px;
+    padding: 2%;
+    background-color: rgb(237, 236, 236);
+
+  }
+  
+  .close-popup-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
