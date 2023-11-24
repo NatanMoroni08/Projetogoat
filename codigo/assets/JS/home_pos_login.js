@@ -1,6 +1,4 @@
-var customPopup = document.getElementById("customPopup");
-var openPopupButtons = document.getElementsByClassName("openPopupButton1");
-var closePopupButton = document.getElementById("closePopupButton");
+var openPopupButtons = document.getElementsByClassName("openPopupButton");
 var elementId;
 
 // ouvinte de eventos a cada botão "mais"
@@ -10,15 +8,15 @@ Array.from(openPopupButtons).forEach(function (button) {
     elementId = button.id;
 
     // Abre o popup
-    customPopup.style.display = "block";
+    //customPopup.style.display = "block";
 
     ValidaInfo()
   });
 });
 
-closePopupButton.addEventListener("click", function () {
-  customPopup.style.display = "none";
-});
+//closePopupButton.addEventListener("click", function () {
+  //customPopup.style.display = "none";
+//});
 
 // Obtendo referências para os parágrafos
 var pCriador = document.getElementById("p-criador");
