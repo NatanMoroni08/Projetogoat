@@ -42,17 +42,7 @@ body {
     margin: 0 auto 2px auto;
 }
 
-/* Footer */
-footer {
-    background-color: #14805E;
-    color: #fff;
-    bottom: 0;
-    width: 100%;
-    margin-top: 2%;
-}
-
-
-/* Adicione estilos personalizados para o seu modal */
+/* Estilos personalizados para o seu modal */
 div .modal-header h1
 {
   width: 100%;
@@ -75,11 +65,46 @@ div .modal-header h1
 
 }
 
+
+/* fazendo o elemento de notificação ficar na posição específica da tela  */
+#liveAlertPlaceholder {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-top: 1.8%;
+}
+
 /* Configurando o alerta*/
 .alert
 {
-    top:100%;
-    margin-top: 1%;
     width: max-content;
+    margin-left: auto;
+}
 
+/* Footer */
+footer {
+    background-color: #022f21;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2%;
+}
+.text-center a {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 15px;
+    color: #fff;
+
+}
+.text-center p {
+    font-family: Arial, Helvetica, sans-serif,bold;
+    margin-top:10px;
+}
+.bloco-faq{
+    max-width: 50%;
+    margin: 5px auto 5px auto;
+    
+}
+.accordion-item .accordion-button,.accordion-body{
+    color: #fff;
+    background-color: #022f21;
 }

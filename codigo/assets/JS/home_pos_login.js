@@ -142,13 +142,14 @@ const alertPlaceholder = document.getElementById("liveAlertPlaceholder");
 const appendAlert = (message, type) => {
   const wrapper = document.createElement("div");
   wrapper.innerHTML = [
-    `<div class="alert alert-${type} alert-dismissible" role="alert" id="notificacao">`,
-    `   <div>${message}</div>`,
+    `<div class="alert alert-${type} alert-dismissible mb-1" role="alert" id="notificacao">`,
+    `   <div><i class="fa-sharp fa-solid fa-circle-check fa-lg me-2"></i>${message}</div>`,
     '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
     "</div>",
   ].join("");
 
   alertPlaceholder.append(wrapper);
+
 };
 
 /*   implementar após a junção do código do trablho
@@ -169,7 +170,7 @@ const VerificaLotacao = () => {
 const alertTrigger = document.getElementById("participar");
 const notificacao = document.getElementById("notificacao");
 // if (alertTrigger) {
-  let mensagemExito = "Legal, agora você está participando da partida!";
+  let mensagemExito = "<strong>Legal, agora você está participando da partida!</strong>";
  // let mensagemFalha = "Ops, parece que a partida já está cheia!";
 
   alertTrigger.addEventListener("click", () => {

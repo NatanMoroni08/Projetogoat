@@ -9,15 +9,16 @@ body {
 
 /* Navbar */
 
-.navbar{
+.navbar {
     background-color: #14805E;
 }
-.entrar a{
+
+.entrar a {
     color: #fff;
     text-decoration: none;
 }
-.text-center p
-{
+
+.text-center p {
     color: white;
 }
 
@@ -32,3 +33,4 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
