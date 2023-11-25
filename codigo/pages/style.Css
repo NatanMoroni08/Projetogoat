@@ -1,0 +1,36 @@
+body {
+    background-image: url('bola\ sombra.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+  }
+  
+  .BotõesdoNavbar {
+    position: absolute;
+    right: 10px;
+  }
+  
+  .Bonequinhodonavbar {
+    width: auto !important;
+  }
+  
+  /* Adicione um espaçamento entre os cards e o rodapé */
+  .row {
+    margin-bottom: 20px;
+  }
+  
+  /* Adicione um espaçamento no topo do rodapé */
+  footer {
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    /* Centralizar o texto dentro do elemento h1 */
+  }
+  
+  p {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
