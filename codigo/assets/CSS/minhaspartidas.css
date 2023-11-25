@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-image: url(/Projetogoat/codigo/assets/imagens/bola\ sombra.jpg);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.bonequinhonavbar{
+  width: auto !important;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    border-radius: 8px;
+    box-shadow: 9px 11px 14px -3px rgba(0,0,0,0.72);
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    max-height: 470px;
+    transition: 0.3s ease-out;
+  }
+.h5{
+  text-align: justify;
+}
+.p{
+  text-align: justify;
+  font-weight: bold;
+}
+/*Estilo para a escrita minhas partidas */
+.me-5{
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+.partida-cancelada {
+  display: none;
+}
+.card p{
+    justify-self: auto;
+    text-align: left;
+    color: black;
+    font-size: 15px;
+}
+.quadra{
+    float: right;
+    max-width: 64px;
+    max-height: 64px;
+}
+.alt{
+    border-left: 3px solid black;
+}
+/* Estilos gerais para o modal */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  .modal-content {
+    background-color: #fff;
+  width: 80%; /* Ajuste a largura conforme necessário */
+  max-width: 500px; /* Adicione um valor máximo para evitar que o pop-up fique muito largo */
+  margin: 50px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  box-sizing: border-box;
+  }
+  /* Estilos para o botão "X" de fechar o modal */
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #555;
+  }
+  .close:hover {
+    color: #f00; /* Cor do botão "X" ao passar o mouse */
+  }
+  /* Estilos para os botões do modal */
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  button:hover {
+    background-color: #0056B3; /* Cor do botão ao passar o mouse */
+  }
+  /* Estilos específicos para os botões "Sim" e "Cancelar" */
+  #confirmCancel {
+    background-color: #D9534F; /* Cor vermelha */
+  }
+  #confirmCancel:hover {
+    background-color: #C9302C;
+  }
+  #cancelCancel {
+    background-color: #5BC0DE; /* Cor azul */
+  }
+  #cancelCancel:hover {
+    background-color: #46B8DA;
+  }
+footer {
+    background-color: rgb(1, 87, 40);
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+}
