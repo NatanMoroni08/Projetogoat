@@ -174,11 +174,13 @@ const notificacao = document.getElementById("notificacao");
 
   alertTrigger.addEventListener("click", () => {
     appendAlert(mensagemExito, "success");
-
-    setTimeout(function () {
-      notificacao.className = 'alert alert-success alert-dismissible closed.bs.alert';
-    }, 1000);
   });
 //}
 //função para fazer a mensagem desaparecer
 console.log(dados[0].Jogado[0])
+/* 
+setTimeout(function () {
+  notificacao.className = 'alert alert-success alert-dismissible closed.bs.alert';
+}, 1000);
+
+*/
