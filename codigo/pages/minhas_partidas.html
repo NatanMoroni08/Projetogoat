@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>GOAT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Projetogoat/codigo/assets/CSS/minhaspartidas.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+  <div class="bodyimg" style=" background-image: url(imagem/bola\ sombra.jpg);"></div>
+  <nav class="navbar navbar-expand-lg" style="background-color: rgba(4, 145, 56, 0.962);">
+    <div class="d-flex justify-content-between w-100" >
+      <div>
+        <div class="container-fluid w-100 d-flex" >
+          <a class="navbar-brand" href="#"><span class="fw-bold text-light ">GOAT</span></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"><span class="text-light">Minhas
+                    Partidas</span></a>
+              </li>
+              <li class="nav-item">-
+                <a class="nav-link" href="#"></a> 
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><span class="text-light">Montar Partidas</span></a>
+              </li>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          </ul>
+          <div class="entrar">
+            <img src="/Projetogoat/codigo/assets/imagens/icons8-person-24.png" class="bonequinhonavbar"
+              class="container-fluid Bonequinhodonavbar">
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  </div>
+  </div>
+  
+  <!-- Conteúdo do site aqui -->
+  
+  <article class="">
+      <div class="container p-4 pb-0">
+        <section class="">
+          <p class="d-flex justify-content-center align-items-center">
+            <span class="me-5">Minhas Partidas</span>
+            </button>
+          </p>
+        </div>          
+     </article>
+     <!--Cards-->
+     <section class="container-fluid">
+      <div class="row">
+        <!--Começo primeiro card primeira foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 1</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 1">
+          <div class="card-body">
+            <p>Jogadore:4/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:19:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="1">Cancelar participação</a>
+          </div>
+        </div>
+        <!--Começo segundo card segunda foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 2</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 2">
+          <div class="card-body">
+            <p>Jogadore:7/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:15:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="2">Cancelar participação</a>
+            <div id="myModal" class="modal">
+              <div class="modal-content">
+                <span class="close" id="close">&times;</span>
+                <p>Tem certeza de que deseja cancelar a participação?</p>
+                <button id="confirmCancel">Sim</button>
+                <button id="cancelCancel">Cancelar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--Começo terceiro card terceira foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 3</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 3">
+          <div class="card-body">
+            <p>Jogadore:5/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:17:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="3">Cancelar participação</a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+      
+      <!-- Footer -->
+      <footer class="text-center text-white">
+      <div class="text-center p-3">
+        <p> © 2023 Copyright: Todos os direitos autorais estão reservardos</p>
+         </div>
+    </footer>
+    <!-- Footer of end -->
+  </section>
+  <!-- POP-UP -->
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="close">&times;</span>
+      <p>Tem certeza de que deseja cancelar a participação?</p>
+      <button id="confirmYes">Sim</button>
+      <button id="confirmNo">Não</button>
+    </div>
+  </div>
+  <script src="/Projetogoat/codigo/assets/JS/minhaspartidas.json"></script>
+  <script src="/Projetogoat/codigo/assets/JS/funçoes.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>GOAT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Projetogoat/codigo/assets/CSS/minhaspartidas.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+  <div class="bodyimg" style=" background-image: url(imagem/bola\ sombra.jpg);"></div>
+  <nav class="navbar navbar-expand-lg" style="background-color: rgba(4, 145, 56, 0.962);">
+    <div class="d-flex justify-content-between w-100" >
+      <div>
+        <div class="container-fluid w-100 d-flex" >
+          <a class="navbar-brand" href="#"><span class="fw-bold text-light ">GOAT</span></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"><span class="text-light">Minhas
+                    Partidas</span></a>
+              </li>
+              <li class="nav-item">-
+                <a class="nav-link" href="#"></a> 
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><span class="text-light">Montar Partidas</span></a>
+              </li>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          </ul>
+          <div class="entrar">
+            <img src="/Projetogoat/codigo/assets/imagens/icons8-person-24.png" class="bonequinhonavbar"
+              class="container-fluid Bonequinhodonavbar">
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  </div>
+  </div>
+  
+  <!-- Conteúdo do site aqui -->
+  
+  <article class="">
+      <div class="container p-4 pb-0">
+        <section class="">
+          <p class="d-flex justify-content-center align-items-center">
+            <span class="me-5">Minhas Partidas</span>
+            </button>
+          </p>
+        </div>          
+     </article>
+     <!--Cards-->
+     <section class="container-fluid">
+      <div class="row">
+        <!--Começo primeiro card primeira foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 1</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 1">
+          <div class="card-body">
+            <p>Jogadore:4/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:19:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="1">Cancelar participação</a>
+          </div>
+        </div>
+        <!--Começo segundo card segunda foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 2</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 2">
+          <div class="card-body">
+            <p>Jogadore:7/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:15:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="2">Cancelar participação</a>
+            <div id="myModal" class="modal">
+              <div class="modal-content">
+                <span class="close" id="close">&times;</span>
+                <p>Tem certeza de que deseja cancelar a participação?</p>
+                <button id="confirmCancel">Sim</button>
+                <button id="cancelCancel">Cancelar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--Começo terceiro card terceira foto-->
+        <div class="card" style="width: 21rem;">
+          <h5 class="card-title">Quadra 3</h5>
+          <img src="/Projetogoat/codigo/assets/imagens/quadra.jpg" class="card-img-top " alt="Imagem Quadra 3">
+          <div class="card-body">
+            <p>Jogadore:5/8</p>
+            <p>Local: R. José Cleto 972, Palmares</p>
+            <p>Horário:17:00</p>
+            <a href="#" class="btn btn-primary cancel-button" data-partida-id="3">Cancelar participação</a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+      
+      <!-- Footer -->
+      <footer class="text-center text-white">
+      <div class="text-center p-3">
+        <p> © 2023 Copyright: Todos os direitos autorais estão reservardos</p>
+         </div>
+    </footer>
+    <!-- Footer of end -->
+  </section>
+  <!-- POP-UP -->
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="close">&times;</span>
+      <p>Tem certeza de que deseja cancelar a participação?</p>
+      <button id="confirmYes">Sim</button>
+      <button id="confirmNo">Não</button>
+    </div>
+  </div>
+  <script src="/Projetogoat/codigo/assets/JS/minhaspartidas.json"></script>
+  <script src="/Projetogoat/codigo/assets/JS/funçoes.js"></script>
+</body>
+</html>
