@@ -1,0 +1,101 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+  background-image: url('GOAT.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .bonequinhonavbar {
+    width: auto !important;
+  }
+  
+  .card-footer {
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .sairPartidaButton {
+    width: 100%;
+    border-radius: 0;
+  }
+  
+  .me-5 {
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .card p {
+    text-align: left;
+    color: black;
+    font-size: 15px;
+  }
+  
+  footer {
+    background-color: rgb(1, 87, 40);
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto;
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 80%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .card {
+    margin-bottom: 20px; /* EspaÃ§amento entre os cards verticalmente */
+    max-width: 300px; /* Largura mÃ¡xima para cada card */
+  }
+  
+  /* Ajustes para o container dos cards */
+  #partidasContainer {
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; /* Aumenta o espaÃ§amento entre os cards horizontalmente e verticalmente */
+    justify-content: center; /* Centraliza os cards horizontalmente */
+    align-items: center; /* Centraliza os cards verticalmente */
+    min-height: 80vh; /* Altura mÃ­nima para o container dos cards */
+  }
